@@ -1,6 +1,6 @@
 # FSJ Digital 2021/2022 - insights into our journey
 ## **Seminarplan**
-5 Tage: 01.09. - 07.09.2021 | Einführung <br><br>
+5 Tage: 01.09. - 07.09.2021 | Einführungsseminar <br><br>
 2 Tage: 03.11. - 04.11.2021 | Reflexion & Hackathon <br><br>
 1 Tag: 17.11.2021 | Studieninformationstag <br><br>
 3 Tage: 21.12. - 23.12.2021 | Weihnachtsseminar <br><br>
@@ -8,7 +8,7 @@
 4 Tage: 21.03. - 24.03.2022 | Reflexion & Filmworkshop <br><br>
 3 Tage: 31.05. - 02.06.2022 | LearnTec Karlsruhe <br><br>
 5 Tage: 20.06. - 24.06.2022 | Abschlussfahrt
-## **5 Tage: 01.09. - 07.09.2021 | Einführung**
+## **5 Tage: 01.09. - 07.09.2021 | Einführungsseminar**
 **Überblick** <br><br>
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
