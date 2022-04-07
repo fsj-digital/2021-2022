@@ -9,12 +9,12 @@
 3 Tage: 31.05. - 02.06.2022 | LearnTec Karlsruhe <br><br>
 5 Tage: 20.06. - 24.06.2022 | Abschlussfahrt
 ## **5 Tage: 01.09. - 07.09.2021 | Einführungsseminar**
-**Überblick** 
-01.09.             | 02.09.   | 03.09.   | 06.09.   | 07.09.   |
---------           | -------- | -------- | -------- | -------- |
+**Überblick** <br><br>
+01.09. | 02.09.   | 03.09.   | 06.09.   | 07.09.   |
+-------- | -------- | -------- | -------- | -------- |
 Kennenlernen  | Arbeitsrecht   | Exkursion Sammlung Prinzhorn | Exkursion Medienzentrum | Frühstück Cafe Extrablatt
 Python Crashkurs   | Vorbereitung Exursion   |    | Ausklang Cafe am Römerkreis | Exkursion Sinti & Roma Dokumentationszentrum
-------------------------------------------------------
+------------------------------------------------------ <br><br>
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
 **Freitag, 03.09.2021** <br><br>
