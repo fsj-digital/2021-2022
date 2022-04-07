@@ -12,7 +12,7 @@
 **Überblick** 
 0.09. | 02.09. | 03.09. | 06.09. | 07.09. |
 -------- | -------- | -------- | -------- | -------- |
-Kennenlernen  | Arbeitsrecht   | Inhalt   |
+Kennenlernen  | Arbeitsrecht   | Exkursion |
 Python Crashkurs   | Vorbereitung Exursion   | Inhalt   |  
 ------------------------------------------------------
 **Mittwoch, 01.09.2021** <br><br>
