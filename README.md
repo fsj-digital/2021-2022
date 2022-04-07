@@ -10,10 +10,10 @@
 5 Tage: 20.06. - 24.06.2022 | Abschlussfahrt
 ## **5 Tage: 01.09. - 07.09.2021 | Einführungsseminar**
 **Überblick** <br><br>
-Spalte 1 | Spalte 2 | Spalte 3
--------- | -------- | --------
-Inhalt   | Inhalt   | Inhalt
-Inhalt   | Inhalt   | Inhalt
+Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5 |
+-------- | -------- | -------- | -------- | -------- |
+Inhalt   | Inhalt   | Inhalt   |
+Inhalt   | Inhalt   | Inhalt   |
 ------------------------------
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
