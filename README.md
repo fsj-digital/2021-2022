@@ -13,7 +13,7 @@
 01.09. | 02.09.   | 03.09.   | 06.09.   | 07.09.   |
 -------- | -------- | -------- | -------- | -------- |
 Kennenlernen  | Arbeitsrecht   | Exkursion Sammlung Prinzhorn | Exkursion Medienzentrum | Frühstück Cafe Extrablatt
-Python Crashkurs   | Vorbereitung Exursion   |    | Ausklang Cafe am Römerkreis | Exkursion Sinti & Roma Dokumentationszentrum
+Python Crashkurs   | Vorbereitung Exkursion   |    | Ausklang Cafe am Römerkreis | Exkursion Sinti & Roma Dokumentationszentrum
 ------------------------------------------------------ 
 <br><br>
 **Mittwoch, 01.09.2021** <br><br>
