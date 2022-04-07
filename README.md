@@ -16,7 +16,7 @@ Kennenlernen  | Arbeitsrecht   | Exkursion Sammlung Prinzhorn | Exkursion Medien
 Python Crashkurs   | Vorbereitung Exkursion   |    | Ausklang Cafe am Römerkreis | Exkursion Sinti & Roma Dokumentationszentrum
 ------------------------------------------------------ 
 **Mittwoch, 01.09.2021** <br><br>
-Am Mittwochvormittag war erstmal ein Kennenlernen angesagt.
+Am Mittwochvormittag war erstmal ein Kennenlernen angesagt. <br><br>
 **Donnerstag, 02.09.2021** <br><br>
 **Freitag, 03.09.2021** <br><br>
 **Montag, 06.09.2021** <br><br>
