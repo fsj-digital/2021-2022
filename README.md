@@ -12,9 +12,8 @@
 **Überblick** 
 0.09. | 02.09. | 03.09. | 06.09. | 07.09. |
 -------- | -------- | -------- | -------- | -------- |
-Kennenlernen  | Arbeitsrecht   | Exkursion
-Sammlung Prinzhorn | Exkursion
-Python Crashkurs   | Vorbereitung Exursion   |    |  
+Kennenlernen  | Arbeitsrecht   | Exkursion Sammlung Prinzhorn | Exkursion Medienzentrum | Exkursion 
+Python Crashkurs   | Vorbereitung Exursion   |    | Ausklang Cafe am Römerkreis | 
 ------------------------------------------------------
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
