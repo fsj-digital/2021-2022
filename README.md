@@ -10,13 +10,7 @@
 5 Tage: 20.06. - 24.06.2022 | Abschlussfahrt
 ## **5 Tage: 01.09. - 07.09.2021 | Einführungsseminar**
 **Überblick** <br><br>
-|   |                A                 |    B    |           C            |       D        |
-|---|----------------------------------|---------|------------------------|----------------|
-| 1 | Col1                             | Col2    | Col3                   | Numeric Column |
-| 2 | Value 1                          | Value 2 | 123                    | 10.0           |
-| 3 | Separate                         | cols    | with a tab or 4 spaces | -2,027.1       |
-| 4 | This is a row with only one cell |         |                        |                |
-|---|----------------------------------|---------|------------------------|----------------|
+
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
 **Freitag, 03.09.2021** <br><br>
