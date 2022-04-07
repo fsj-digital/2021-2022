@@ -9,8 +9,8 @@
 3 Tage: 31.05. - 02.06.2022 | LearnTec Karlsruhe <br><br>
 5 Tage: 20.06. - 24.06.2022 | Abschlussfahrt
 ## **5 Tage: 01.09. - 07.09.2021 | Einführungsseminar**
-**Überblick** <br><br>
-Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5 |
+**Überblick** 
+0.09. | 02.09. | 03.09. | 06.09. | 07.09. |
 -------- | -------- | -------- | -------- | -------- |
 Inhalt   | Inhalt   | Inhalt   |
 Inhalt   | Inhalt   | Inhalt   |
