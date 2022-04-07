@@ -16,6 +16,7 @@
 | 2 | Value 1                          | Value 2 | 123                    | 10.0           |
 | 3 | Separate                         | cols    | with a tab or 4 spaces | -2,027.1       |
 | 4 | This is a row with only one cell |         |                        |                |
+|---|----------------------------------|---------|------------------------|----------------|
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
 **Freitag, 03.09.2021** <br><br>
