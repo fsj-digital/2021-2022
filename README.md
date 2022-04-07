@@ -12,8 +12,8 @@
 **Überblick** 
 0.09. | 02.09. | 03.09. | 06.09. | 07.09. |
 -------- | -------- | -------- | -------- | -------- |
-Inhalt   | Inhalt   | Inhalt   |
-Inhalt   | Inhalt   | Inhalt   |
+Kennenlernen  | Inhalt   | Inhalt   |
+Python Crashkurs   | Inhalt   | Inhalt   |
 ------------------------------
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
