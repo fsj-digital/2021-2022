@@ -13,7 +13,8 @@
 0.09. | 02.09. | 03.09. | 06.09. | 07.09. |
 -------- | -------- | -------- | -------- | -------- |
 Kennenlernen  | Arbeitsrecht   | Inhalt   |
-Python Crashkurs   | Vorbereitung Exursion   | Inhalt   |  <br><br>
+Python Crashkurs   | Vorbereitung Exursion   | Inhalt   |  
+------------------------------------------------------
 **Mittwoch, 01.09.2021** <br><br>
 **Donnerstag, 02.09.2021** <br><br>
 **Freitag, 03.09.2021** <br><br>
